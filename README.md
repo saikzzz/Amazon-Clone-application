@@ -1,2 +1,1 @@
-# Tech-employees-Stress-detection
-The main motive of the project is to detect stress in the IT professionals using vivid Machine learning and Image processing techniques. Our system mainly focuses on managing stress and making the working environment healthy
+This project is basiaclly a Amazon Clone website which i have done using HTML,CSS,JS and used Google firebase in the backend
